@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[267],{325:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"swing","name":"swing","count":1,"permalink":"/blog/tags/swing"}')}}]);
