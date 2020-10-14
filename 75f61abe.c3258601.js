@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[249],{310:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"graph-ql","name":"graphql","count":1,"permalink":"/blog/tags/graph-ql"}')}}]);
