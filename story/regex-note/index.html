@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="generator" content="Docusaurus v2.0.0-alpha.65">
+<link rel="preconnect" href="https://www.google-analytics.com">
+<script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-30404720-1","auto"),ga("send","pageview")</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30404720-1"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-30404720-1",{})</script>
+<link rel="search" type="application/opensearchdescription+xml" title="Wener Live & Life" href="/opensearch.xml"><title data-react-helmet="true">Regex 速记 | Wener Live &amp; Life</title><meta data-react-helmet="true" property="og:title" content="Regex 速记 | Wener Live &amp; Life"><meta data-react-helmet="true" name="description" content="Regex 速记"><meta data-react-helmet="true" property="og:description" content="Regex 速记"><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"><link data-react-helmet="true" rel="shortcut icon" href="/img/favicon.ico"><link data-react-helmet="true" rel="preconnect" href="https://BH4D9OD16A-dsn.algolia.net" crossorigin="anonymous"><link rel="stylesheet" href="/styles.98d7e791.css">
+<link rel="preload" href="/styles.bc39f465.js" as="script">
+<link rel="preload" href="/runtime~main.f5b65c4d.js" as="script">
+<link rel="preload" href="/main.9d18f6f6.js" as="script">
+<link rel="preload" href="/1.515589a8.js" as="script">
+<link rel="preload" href="/2.740fb044.js" as="script">
+<link rel="preload" href="/3.ad30dfaf.js" as="script">
+<link rel="preload" href="/ccc49370.b7ee0a52.js" as="script">
+<link rel="preload" href="/545155da.3de13b88.js" as="script">
+</head>
+<body>
+<script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){var t=null;try{t=localStorage.getItem("theme")}catch(t){}return t}();t(null!==e?e:"light")}()</script><div id="__docusaurus">
+<nav class="navbar navbar--fixed-top"><div class="navbar__inner"><div class="navbar__items"><div aria-label="Navigation bar toggle" class="navbar__toggle" role="button" tabindex="0"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" role="img" focusable="false"><title>Menu</title><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></div><a class="navbar__brand" href="/"><img class="navbar__logo" src="/img/wener-logo-head.svg" alt="Wener Logo"><strong class="navbar__title">Wener</strong></a><a class="navbar__item navbar__link" href="/notes/java/java">笔记</a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/story">故事</a><a class="navbar__item navbar__link" href="/notes/howto/network/dns-prevent-spoofing">指南</a><a class="navbar__item navbar__link" href="/notes/tool/network/ip-lookup">工具</a></div><div class="navbar__items navbar__items--right"><a href="https://github.com/wenerme/wener" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub</a><div class="react-toggle react-toggle--disabled displayOnlyInLargeViewport_2aTZ"><div class="react-toggle-track"><div class="react-toggle-track-check"><span class="toggle_BsTx">🌜</span></div><div class="react-toggle-track-x"><span class="toggle_BsTx">🌞</span></div></div><div class="react-toggle-thumb"></div><input type="checkbox" disabled="" aria-label="Dark mode toggle" class="react-toggle-screenreader-only"></div><button type="button" class="DocSearch DocSearch-Button" aria-label="Search"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 20 20"><path d="M14.386 14.386l4.0877 4.0877-4.0877-4.0877c-2.9418 2.9419-7.7115 2.9419-10.6533 0-2.9419-2.9418-2.9419-7.7115 0-10.6533 2.9418-2.9419 7.7115-2.9419 10.6533 0 2.9419 2.9418 2.9419 7.7115 0 10.6533z" stroke="currentColor" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Search</span><span class="DocSearch-Button-Key">⌘</span><span class="DocSearch-Button-Key">K</span></button></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div><div class="navbar-sidebar"><div class="navbar-sidebar__brand"><a class="navbar__brand" href="/"><img class="navbar__logo" src="/img/wener-logo-head.svg" alt="Wener Logo"><strong class="navbar__title">Wener</strong></a></div><div class="navbar-sidebar__items"><div class="menu"><ul class="menu__list"><li class="menu__list-item"><a class="menu__link" href="/notes/java/java">笔记</a></li><li class="menu__list-item"><a aria-current="page" class="menu__link navbar__link--active" href="/story">故事</a></li><li class="menu__list-item"><a href="https://github.com/wenerme/wener" target="_blank" rel="noopener noreferrer" class="menu__link">GitHub</a></li><li class="menu__list-item"><a class="menu__link" href="/notes/howto/network/dns-prevent-spoofing">指南</a></li><li class="menu__list-item"><a class="menu__link" href="/notes/tool/network/ip-lookup">工具</a></li></ul></div></div></div></nav><div class="main-wrapper"><div class="container margin-vert--lg"><div class="row"><div class="col col--8 col--offset-2"><article><header><h1 class="margin-bottom--sm blogPostTitle_1mse">Regex 速记</h1><div class="margin-vert--md"><time datetime="2013-10-13T00:00:00.000Z" class="blogPostDate_3bQP">October 13, 2013  · 2 min read</time></div><div class="avatar margin-vert--md"><div class="avatar__intro"></div></div></header><section class="markdown"><h1><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_2cZh" id="regex-速记"></a>Regex 速记<a aria-hidden="true" tabindex="-1" class="hash-link" href="#regex-速记" title="Direct link to heading">#</a></h1><blockquote><p>需要注意的是, 由于正则在不同的流派中表示有所不同,只能整理一些几乎雷同的.
+不同流派之间的差异,很多在是否需要转义上,例如 在有些流派里 <code>()</code> 要写成 <code>\(\)</code>
+这里整理的主要是 PCRE 流派的正则语法</p></blockquote><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_2cZh" id="字符表示"></a>字符表示<a aria-hidden="true" tabindex="-1" class="hash-link" href="#字符表示" title="Direct link to heading">#</a></h2><p>字符缩进表示
+: <code>\n,\t,\a,\b,\e,\f,\r,\v</code></p><p>八进制转义
+: <code>\num</code></p><p>十六进制转义/Unicode 转义
+: <code>\xnum,\x{num},\unum,\Unum</code></p><p>控制字符
+: <code>\cchar</code></p><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_2cZh" id="字符及相关结构"></a>字符及相关结构<a aria-hidden="true" tabindex="-1" class="hash-link" href="#字符及相关结构" title="Direct link to heading">#</a></h2><p>普通字符组
+: <code>[a-z].[^a-z]</code></p><p>几乎能匹配任何字符的元字符
+: <code>.</code></p><p>单个字节
+: &#x27;\C&#x27;</p><p>Unicode 组合字符序列
+: <code>\X</code></p><p>字符组简记(大写为排除)
+: <code>\w,\W,\s,\S,\d,\D</code></p><p>Unicode 属性区域和分类
+: <code>\p{prop},\P{prop}</code></p><p>POSIX &quot;字符组&quot;方括号表示
+: <code>[[:alpha:]]</code></p><p>POSIX &quot;Collating序列&quot; 方括号表示
+: <code>[[.span.-11.]]</code></p><p>POSIX &quot;字符等价类&quot; 方括号表示
+: <code>[[=n=]]</code></p><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_2cZh" id="锚点及其他-零长度断言"></a>锚点及其他 &quot;零长度断言&quot;<a aria-hidden="true" tabindex="-1" class="hash-link" href="#锚点及其他-零长度断言" title="Direct link to heading">#</a></h2><p>行/字符串起点
+: <code>^, \A</code></p><p>行/字符串终点
+: &#x27;$. \Z, \z&#x27;</p><p>本次匹配的开始位置/上次匹配的结束位置
+: <code>\G</code></p><p>单词分界符
+: <code>\b,\B,\&lt;,\&gt;</code></p><p>顺序环视
+: <code>(?=...), (?!...)</code></p><p>逆序环视
+: <code>(?&lt;=...),(?&lt;!...)</code></p><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_2cZh" id="注释和模式修饰词"></a>注释和模式修饰词<a aria-hidden="true" tabindex="-1" class="hash-link" href="#注释和模式修饰词" title="Direct link to heading">#</a></h2><p>模式修饰词
+: <code>(?modifier),(-?modifier)</code>
+: eg:<code>(?i)...(?-i)</code></p><p>模式作用范围
+: <code>(?modifier:...)</code>
+: eg:<code>(?i:....)</code></p><p>注释
+: <code>(?#...),#...</code></p><p>文本范围
+: <code>\Q,\E</code></p><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_2cZh" id="分组捕获条件判断和控制"></a>分组,捕获,条件判断和控制<a aria-hidden="true" tabindex="-1" class="hash-link" href="#分组捕获条件判断和控制" title="Direct link to heading">#</a></h2><p>捕获/分组
+: <code>(...),\1,\2</code></p><p>仅用于分组
+: <code>(?:...)</code></p><p>命名捕获
+: <code>(?&lt;name&gt;...)</code></p><p>固化分组
+: <code>(?&gt;...)</code></p><p>多选
+: <code>...|...|...</code></p><p>条件判断
+: <code>(?if then|else)</code></p><p>匹配优先量词
+: <code>*,+,?,{m,n}</code></p><p>忽略优先量词
+: <code>*?,+?,??,{m,n}?</code></p><p>占有优先量词
+: <code>*?,++,?+,{m,n}+</code></p><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_2cZh" id="命名字符组"></a>命名字符组<a aria-hidden="true" tabindex="-1" class="hash-link" href="#命名字符组" title="Direct link to heading">#</a></h2><p>关于这些字符组的命名,可以参考<a href="http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/ctype.h.html" target="_blank" rel="noopener noreferrer">susv-ctype</a>.需要注意的是,在unicode里,这些字符组的定义要根据unicode 的定义来判断.会包含额外的同义的字符.</p><table><thead><tr><th align="right">组</th><th align="left">描述</th></tr></thead><tbody><tr><td align="right">[:alnum:]</td><td align="left"></td></tr><tr><td align="right">[:alpha:]</td><td align="left">字母</td></tr><tr><td align="right">[:blank:]</td><td align="left">空白</td></tr><tr><td align="right">[:cntrl:]</td><td align="left">控制符</td></tr><tr><td align="right">[:digit:]</td><td align="left"></td></tr><tr><td align="right">[:graph:]</td><td align="left">可显示</td></tr><tr><td align="right">[:lower:]</td><td align="left">小写</td></tr><tr><td align="right">[:upper:]</td><td align="left">大写</td></tr><tr><td align="right">[:space:]</td><td align="left">包括 [:blank:], 换行, 回车及其他</td></tr></tbody></table><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_2cZh" id="测试引擎类型"></a>测试引擎类型<a aria-hidden="true" tabindex="-1" class="hash-link" href="#测试引擎类型" title="Direct link to heading">#</a></h2><p><code>nfa|nfa.not</code> 匹配 <code>nfa.not</code></p><table><thead><tr><th>匹配结果</th><th>说明</th></tr></thead><tbody><tr><td>nfa</td><td>传统 NFA</td></tr><tr><td>nfa.not</td><td>POSIX / DFA</td></tr></tbody></table><p>DFA 不支持捕获型括号和回溯</p><p><code>x(.+)+x</code> 匹配 <code>=xx============================================================</code></p><table><thead><tr><th>匹配结果</th><th>说明</th></tr></thead><tbody><tr><td>时间长</td><td>NFA</td></tr><tr><td>时间短</td><td>DFA, 但也有可能是混合的或优化的</td></tr></tbody></table><table><thead><tr><th>引擎</th><th>工具</th></tr></thead><tbody><tr><td>DFA</td><td>awk, egrep, flex, lex, MySQL, Procmail</td></tr><tr><td>Tranditional NFA</td><td>GNU Emacs, Java, grep, less, more, .NET, PCRE, Perl, PHP, Python, Vi, Ruby, sed</td></tr><tr><td>POSIX NFA</td><td>mawk, Mortricekern System;s utiles, GNU Emacs</td></tr><tr><td>DFA/NFA</td><td>GNU awk, GNU grep, Tcl</td></tr></tbody></table><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_2cZh" id="匹配基础"></a>匹配基础<a aria-hidden="true" tabindex="-1" class="hash-link" href="#匹配基础" title="Direct link to heading">#</a></h2><p>规则1
+: 优先选择最左端的匹配结果</p><p>规则2
+: 标准量词是匹配优先的</p><p>NFA
+: 表达式主导</p><p>DFA
+: 文本主导,不关心表达式的形式
+: 即 <code>x*=x?x?...=(x(x(x...)?)?)?</code></p><p>匹配优先量词和忽略优先量词控制,对回溯状态选择,是跳过还是进行.</p><p>环视模拟固化分组
+: <code>(?&gt;...) =&gt; (?=(...))\1</code></p><p>多选结构即非匹配优先,也非忽略优先,而是顺序优先
+: eg: <code>(to|tow) =~ &quot;tow&quot; = &quot;to&quot;</code></p></section><footer class="row margin-vert--lg"><div class="col"><strong>Tags:</strong><a class="margin-horiz--sm" href="/story/tags/笔记">笔记</a></div></footer></article><div><a href="https://github.com/wenerme/wener/edit/master/story/2013/2013-10-13-Regex 速记.md" target="_blank" rel="noreferrer noopener"><svg fill="currentColor" height="1.2em" width="1.2em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 40 40" style="margin-right:0.3em;vertical-align:sub"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="margin-vert--xl"><nav class="pagination-nav" aria-label="Blog post page navigation"><div class="pagination-nav__item"><a class="pagination-nav__link" href="/story/rk-software-designer"><div class="pagination-nav__sublabel">Newer Post</div><div class="pagination-nav__label">« 软件设计师考试笔记</div></a></div><div class="pagination-nav__item pagination-nav__item--next"><a class="pagination-nav__link" href="/story/java-siwng-textbubble"><div class="pagination-nav__sublabel">Older Post</div><div class="pagination-nav__label">简单的文字气泡框 for Swing »</div></a></div></nav></div></div><div class="col col--2"><div class="tableOfContents_3SO_"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#字符表示" class="table-of-contents__link">字符表示</a></li><li><a href="#字符及相关结构" class="table-of-contents__link">字符及相关结构</a></li><li><a href="#锚点及其他-零长度断言" class="table-of-contents__link">锚点及其他 &quot;零长度断言&quot;</a></li><li><a href="#注释和模式修饰词" class="table-of-contents__link">注释和模式修饰词</a></li><li><a href="#分组捕获条件判断和控制" class="table-of-contents__link">分组,捕获,条件判断和控制</a></li><li><a href="#命名字符组" class="table-of-contents__link">命名字符组</a></li><li><a href="#测试引擎类型" class="table-of-contents__link">测试引擎类型</a></li><li><a href="#匹配基础" class="table-of-contents__link">匹配基础</a></li></ul></div></div></div></div></div><footer class="footer footer--dark"><div class="container"><div class="row footer__links"><div class="col footer__col"><h4 class="footer__title">笔记</h4><ul class="footer__items"><li class="footer__item"><a class="footer__link-item" href="/notes/java/java">Java</a></li><li class="footer__item"><a class="footer__link-item" href="/notes/ops/os/alpine/alpine">AlpineLinux</a></li><li class="footer__item"><a class="footer__link-item" href="/notes/devops/kubernetes/k8s-intro">Kubernates</a></li><li class="footer__item"><a class="footer__link-item" href="/notes/voip/voip-intro">VoIP</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">Projects</h4><ul class="footer__items"><li class="footer__item">
+              <div>
+              <a class="footer__link-item" href="https://github.com/wenerme/wener">Wener</a>
+              - <a class="footer__link-item" href="https://github.com/wenerme/wener/actions" title="wenerme/wener - ci">
+                <img style="vertical-align: middle;opacity: .4;" src="https://github.com/wenerme/wener/workflows/Build/badge.svg">
+                </a>
+              </div>
+              </li><li class="footer__item"><a href="https://apis.wener.me" target="_blank" rel="noopener noreferrer" class="footer__link-item">Wener&#x27;s Apis</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">Social</h4><ul class="footer__items"><li class="footer__item"><a class="footer__link-item" href="/story">Blog</a></li><li class="footer__item"><a href="https://github.com/wenerme" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub</a></li><li class="footer__item"><a href="https://twitter.com/wenerme" target="_blank" rel="noopener noreferrer" class="footer__link-item">Twitter</a></li></ul></div></div><div class="text--center"><div class="margin-bottom--sm"><img class="footer__logo" alt="Wener Site" src="/img/wener-logo.svg"></div><div>Copyright © 1992-2020 Wener - 构建时间 2020-10-17 17:39</div></div></div></footer></div>
+<script src="/styles.bc39f465.js"></script>
+<script src="/runtime~main.f5b65c4d.js"></script>
+<script src="/main.9d18f6f6.js"></script>
+<script src="/1.515589a8.js"></script>
+<script src="/2.740fb044.js"></script>
+<script src="/3.ad30dfaf.js"></script>
+<script src="/ccc49370.b7ee0a52.js"></script>
+<script src="/545155da.3de13b88.js"></script>
+</body>
+</html>
