@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[392],{453:function(o){o.exports=JSON.parse('{"permalink":"/story/page/2","page":2,"postsPerPage":10,"totalPages":7,"totalCount":65,"previousPage":"/story","nextPage":"/story/page/3","blogDescription":"Blog"}')}}]);
