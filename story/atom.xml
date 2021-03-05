@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wener.me/story</id>
+    <title>Wener Live &amp; Life Blog</title>
+    <updated>2021-02-27T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wener.me/story"/>
+    <subtitle>Wener Live &amp; Life Blog</subtitle>
+    <icon>https://wener.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[记录一次修复 init 脚本的经历]]></title>
+        <id>fix-init-script</id>
+        <link href="https://wener.me/story/fix-init-script"/>
+        <updated>2021-02-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[问题产生过程]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlpineLinux 安装 Xfce 桌面]]></title>
+        <id>alpinelinux-setup-xfce</id>
+        <link href="https://wener.me/story/alpinelinux-setup-xfce"/>
+        <updated>2021-02-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[假设已经有一个基础可用的 AlpineLinux, 如果没有可前往 wenerme/alpine-image 下载或自行制作]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么需要 GraphQL]]></title>
+        <id>why-need-graphql</id>
+        <link href="https://wener.me/story/why-need-graphql"/>
+        <updated>2021-01-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[项目开始时人员配备一般有几种情况]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理解孩子的视力]]></title>
+        <id>understand-baby-vision</id>
+        <link href="https://wener.me/story/understand-baby-vision"/>
+        <updated>2021-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[理解关注孩子的视力]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工单系统设计实现]]></title>
+        <id>issues-system-design</id>
+        <link href="https://wener.me/story/issues-system-design"/>
+        <updated>2020-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[工单系统设计实现]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRM 基础 - 线索、商机、账户、联系人]]></title>
+        <id>crm-basic-leads-opportunities-accounts-contacts</id>
+        <link href="https://wener.me/story/crm-basic-leads-opportunities-accounts-contacts"/>
+        <updated>2020-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CRM 基础 - 线索、商机、账户、联系人]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rancher vs. Kubesphere]]></title>
+        <id>rancher-vs-kubesphere</id>
+        <link href="https://wener.me/story/rancher-vs-kubesphere"/>
+        <updated>2020-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rancher vs. Kubesphere]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firecracker 运行 AlpineLinux]]></title>
+        <id>alpine-in-firecracker</id>
+        <link href="https://wener.me/story/alpine-in-firecracker"/>
+        <updated>2020-10-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Firecracker 是亚马逊 AWS 为了解决虚拟化运行 serveless 服务实现的 VMM/Virtual Machine Monitor，作为 QEMU 的替代品，专注于为云上环境提供虚拟化。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes vs OpenStack]]></title>
+        <id>kubernetes-vs-openstack</id>
+        <link href="https://wener.me/story/kubernetes-vs-openstack"/>
+        <updated>2020-09-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10年趋势]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人生第四阶段]]></title>
+        <id>stage-four-of-life</id>
+        <link href="https://wener.me/story/stage-four-of-life"/>
+        <updated>2020-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人生阶段]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微服务杂念]]></title>
+        <id>microservice-thoughts</id>
+        <link href="https://wener.me/story/microservice-thoughts"/>
+        <updated>2020-08-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[微服务已经是一个不再新鲜的概念，但我却依然模糊不清。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源 BI 产品比较]]></title>
+        <id>compare-os-bi-tool</id>
+        <link href="https://wener.me/story/compare-os-bi-tool"/>
+        <updated>2020-07-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[比较 Metabase、Redash、Superset 这几款开源的 BI 产品。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你就是你]]></title>
+        <id>cyw-without-w</id>
+        <link href="https://wener.me/story/cyw-without-w"/>
+        <updated>2020-06-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[YUN]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一周 K3S 学习心得]]></title>
+        <id>k3s-one-week</id>
+        <link href="https://wener.me/story/k3s-one-week"/>
+        <updated>2020-06-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[k3s-one-week]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello CGO]]></title>
+        <id>hello-cgo</id>
+        <link href="https://wener.me/story/hello-cgo"/>
+        <updated>2020-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tips]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wener's APIs]]></title>
+        <id>wener-apis</id>
+        <link href="https://wener.me/story/wener-apis"/>
+        <updated>2020-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dev]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[囧 -《哪吒之魔童降世》观后感]]></title>
+        <id>tt10627720-review</id>
+        <link href="https://wener.me/story/tt10627720-review"/>
+        <updated>2019-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在想标题的时候，看到主演里有 囧（森瑟夫），突然觉得好贴切感受，在观影时大部分是这个表情。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何从0到1实现一门语言]]></title>
+        <id>get-started-with-dsl</id>
+        <link href="https://wener.me/story/get-started-with-dsl"/>
+        <updated>2019-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[语言就是程序员的酒精/Languages are alcohol to programmer。🍺]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java with GraphQL]]></title>
+        <id>jraphql</id>
+        <link href="https://wener.me/story/jraphql"/>
+        <updated>2018-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[JraphQL]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 家用]]></title>
+        <id>ubuntu-home</id>
+        <link href="https://wener.me/story/ubuntu-home"/>
+        <updated>2017-02-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[* Ubuntu 桌面版]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[进击的程序猿]]></title>
+        <id>attack-on-programmer</id>
+        <link href="https://wener.me/story/attack-on-programmer"/>
+        <updated>2017-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2016 年会节目]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 新服务器配置]]></title>
+        <id>ubuntu-new-server</id>
+        <link href="https://wener.me/story/ubuntu-new-server"/>
+        <updated>2016-09-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`bash]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分布式架构手记]]></title>
+        <id>learning-dist-arch</id>
+        <link href="https://wener.me/story/learning-dist-arch"/>
+        <updated>2016-08-25T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[这几天尝试了很多的 \*aaS, 期望能找到在当前架构下适合公司后续发展的一个系统架构, 然而一路下来发现并没那么简单.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go Redis module]]></title>
+        <id>go-rm</id>
+        <link href="https://wener.me/story/go-rm"/>
+        <updated>2016-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Writing Redis Module in Golang.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tap-titans]]></title>
+        <id>tap-titans</id>
+        <link href="https://wener.me/story/2016/08/06/tap-titans"/>
+        <updated>2016-08-06T23:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Play Titans using shell]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBVM - BeBasic Virtual Machine]]></title>
+        <id>bbvm</id>
+        <link href="https://wener.me/story/bbvm"/>
+        <updated>2015-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The first VM in my live.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guava 简介]]></title>
+        <id>guava-intro</id>
+        <link href="https://wener.me/story/guava-intro"/>
+        <updated>2015-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Overviews - Five Ws]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[转战 Hugo, 博客迁移之路]]></title>
+        <id>转战 Hugo, 博客迁移之路</id>
+        <link href="https://wener.me/story/2015/09/25/blog-hugo"/>
+        <updated>2015-09-25T09:32:05.000Z</updated>
+        <summary type="html"><![CDATA[都快要把自己感动, 从最初(2011年)的 Wordpress, 到后来自己开发的 Tellets , 现在又到了 Hugo.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一致性Hash算法]]></title>
+        <id>ketama-consistence-hash</id>
+        <link href="https://wener.me/story/ketama-consistence-hash"/>
+        <updated>2014-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ketama]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息中间件简介 mom-intro]]></title>
+        <id>mom-intro</id>
+        <link href="https://wener.me/story/mom-intro"/>
+        <updated>2014-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 异步 VS 同步]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CentOS 新手]]></title>
+        <id>centos-newbie</id>
+        <link href="https://wener.me/story/centos-newbie"/>
+        <updated>2014-06-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[玩我的 CentOS / Play CentOS]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的编程之道]]></title>
+        <id>the-why-i-write-code</id>
+        <link href="https://wener.me/story/the-why-i-write-code"/>
+        <updated>2014-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[开发过程]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习之谈]]></title>
+        <id>learning-skill</id>
+        <link href="https://wener.me/story/learning-skill"/>
+        <updated>2014-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一下内容之作为个人学习的一些经验]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《我把我的矜持都给了她》：第一章 - 差一毫米的缘分，吗？]]></title>
+        <id>here-my-love-ch1</id>
+        <link href="https://wener.me/story/here-my-love-ch1"/>
+        <updated>2014-05-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[有些人，只是永远不可能在一起]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学生考勤系统]]></title>
+        <id>student-checking-sys</id>
+        <link href="https://wener.me/story/student-checking-sys"/>
+        <updated>2013-12-27T04:24:19.000Z</updated>
+        <summary type="html"><![CDATA[学生考勤系统]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纪念那些在BBK的时光]]></title>
+        <id>bbk-memory</id>
+        <link href="https://wener.me/story/bbk-memory"/>
+        <updated>2013-12-15T02:48:00.000Z</updated>
+        <summary type="html"><![CDATA[纪念那些在 BBK 的时光]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件设计师考试笔记]]></title>
+        <id>rk-software-designer</id>
+        <link href="https://wener.me/story/rk-software-designer"/>
+        <updated>2013-11-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[考试软考的时候,整理的一些笔记]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regex 速记]]></title>
+        <id>regex-note</id>
+        <link href="https://wener.me/story/regex-note"/>
+        <updated>2013-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Regex 速记]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单的文字气泡框 for Swing]]></title>
+        <id>java-siwng-textbubble</id>
+        <link href="https://wener.me/story/java-siwng-textbubble"/>
+        <updated>2013-10-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[![TextBubbleBorderDemo screenschot]]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据库原理 for NCRE 4]]></title>
+        <id>ncre-4-database-note</id>
+        <link href="https://wener.me/story/ncre-4-database-note"/>
+        <updated>2013-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[数据库原理笔记]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[个人作品展示页面]]></title>
+        <id>personal-project-page</id>
+        <link href="https://wener.me/story/personal-project-page"/>
+        <updated>2013-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[链接附上: 作品展示页面]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯方块]]></title>
+        <id>gtetris</id>
+        <link href="https://wener.me/story/gtetris"/>
+        <updated>2013-08-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯方块/GTetris]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贪吃蛇-控制台版]]></title>
+        <id>greedy_snake</id>
+        <link href="https://wener.me/story/greedy_snake"/>
+        <updated>2013-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[贪吃蛇 v1.0]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VB.NET 对对碰游戏]]></title>
+        <id>vb-pong-game</id>
+        <link href="https://wener.me/story/vb-pong-game"/>
+        <updated>2012-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[作者:Wener]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的第一个VB.Net程序]]></title>
+        <id>first-vb-prog</id>
+        <link href="https://wener.me/story/first-vb-prog"/>
+        <updated>2012-02-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我学VB.Net的第一个程序。包含了VB基本的使用方法，对我来说具有相当的纪念意义。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[概述 getopt.h 的使用]]></title>
+        <id>getopt-h-tips</id>
+        <link href="https://wener.me/story/getopt-h-tips"/>
+        <updated>2012-02-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[概述]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梦幻西游版个人简介 PPT]]></title>
+        <id>fwj-resume</id>
+        <link href="https://wener.me/story/fwj-resume"/>
+        <updated>2011-12-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[![梦幻西游版个人简介-中得一个PPT系统]]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《何必再》]]></title>
+        <id>no-more</id>
+        <link href="https://wener.me/story/no-more"/>
+        <updated>2011-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《歌声》]]></title>
+        <id>the-song</id>
+        <link href="https://wener.me/story/the-song"/>
+        <updated>2011-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《沉醉的犯罪》]]></title>
+        <id>addicted-sin</id>
+        <link href="https://wener.me/story/addicted-sin"/>
+        <updated>2011-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《续爱》]]></title>
+        <id>love-more</id>
+        <link href="https://wener.me/story/love-more"/>
+        <updated>2011-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《非遗失》]]></title>
+        <id>not-lost</id>
+        <link href="https://wener.me/story/not-lost"/>
+        <updated>2011-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《我把我的矜持都给了她》：序]]></title>
+        <id>here-my-love-prolog</id>
+        <link href="https://wener.me/story/here-my-love-prolog"/>
+        <updated>2011-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《我把我的矜持都给了她》：篇外 「风的故事」]]></title>
+        <id>here-my-love-wind-story</id>
+        <link href="https://wener.me/story/here-my-love-wind-story"/>
+        <updated>2011-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[js解析lib图片文件列表]]></title>
+        <id>bbk-bbimg-js</id>
+        <link href="https://wener.me/story/bbk-bbimg-js"/>
+        <updated>2011-09-15T21:51:00.000Z</updated>
+        <summary type="html"><![CDATA[原帖链接]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四个函数和bb编辑器]]></title>
+        <id>bbk-libs</id>
+        <link href="https://wener.me/story/bbk-libs"/>
+        <updated>2011-04-24T01:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Lib图片选择]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BB急速截图]]></title>
+        <id>bbk-quick-screenshot</id>
+        <link href="https://wener.me/story/bbk-quick-screenshot"/>
+        <updated>2011-03-22T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[运行截图]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[还原的Bda计算器]]></title>
+        <id>bbk-bda-calc</id>
+        <link href="https://wener.me/story/bbk-bda-calc"/>
+        <updated>2011-03-11T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[黑色主题截图]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[囚徒困境]]></title>
+        <id>bbk-game-prisoner-dilemma</id>
+        <link href="https://wener.me/story/bbk-game-prisoner-dilemma"/>
+        <updated>2011-03-05T21:31:00.000Z</updated>
+        <summary type="html"><![CDATA[游戏截图]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平生第一个游戏 - 趣味拼图]]></title>
+        <id>bbk-first-game</id>
+        <link href="https://wener.me/story/bbk-first-game"/>
+        <updated>2011-02-04T02:21:00.000Z</updated>
+        <summary type="html"><![CDATA[原帖子链接]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件存储结构的基本形式及考虑因素]]></title>
+        <id>file-data-structures</id>
+        <link href="https://wener.me/story/file-data-structures"/>
+        <updated>2011-01-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[每天我们都在接触各种各样的文件，使用和记录各种各样的数据信息，那这些文件都是以什么结构存储的呢？此文对此进行了一些小小的涉及和讲解。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Wener”的来历 - 一段故事]]></title>
+        <id>wener-is-my-name</id>
+        <link href="https://wener.me/story/wener-is-my-name"/>
+        <updated>2011-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[记得那还是在初中的时候吧，初二左右吧，那时候班上就开始叫“简称”了，记得最先出现的是“志儿”，然后叫了叫的大家都开始叫简称了，我觉得这样也挺好的，叫人没那么费力了，也节省了不少口水和时间。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2011年的第一天，今天开通博客了]]></title>
+        <id>start-blogging</id>
+        <link href="https://wener.me/story/start-blogging"/>
+        <updated>2011-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[算来算去终于到了今天了。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 操作二进制流，读取文件结构]]></title>
+        <id>php-read-binary</id>
+        <link href="https://wener.me/story/php-read-binary"/>
+        <updated>2011-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文包含的内容：详细的pack和unpack调用详解，16进制数字字符串保存到文件，读取文件返回值，等]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一种简单的压缩算法]]></title>
+        <id>simple-compress-algorithem</id>
+        <link href="https://wener.me/story/simple-compress-algorithem"/>
+        <updated>2010-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[使用环境：简单加密，使用字符串的读取方式，压缩杂项数据]]></summary>
+    </entry>
+</feed>
