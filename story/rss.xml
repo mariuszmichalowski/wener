@@ -4,9 +4,16 @@
         <title>Wener Live &amp; Life Blog</title>
         <link>https://wener.me/story</link>
         <description>Wener Live &amp; Life Blog</description>
-        <lastBuildDate>Sat, 27 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OpenVox VoxStack 网关分析]]></title>
+            <link>https://wener.me/story/openvox-gw-inside</link>
+            <guid>openvox-gw-inside</guid>
+            <pubDate>Thu, 25 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[OpenVox 模拟网关分析]]></description>
+        </item>
         <item>
             <title><![CDATA[记录一次修复 init 脚本的经历]]></title>
             <link>https://wener.me/story/fix-init-script</link>
