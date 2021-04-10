@@ -155,6 +155,13 @@
         <summary type="html"><![CDATA[概述]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Redis 流简介]]></title>
+        <id>redis-stream-intro</id>
+        <link href="https://wener.me/story/redis-stream-intro"/>
+        <updated>2018-10-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[概述]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Java with GraphQL]]></title>
         <id>jraphql</id>
         <link href="https://wener.me/story/jraphql"/>
@@ -173,7 +180,7 @@
         <id>ubuntu-home</id>
         <link href="https://wener.me/story/ubuntu-home"/>
         <updated>2017-02-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[* Ubuntu 桌面版]]></summary>
+        <summary type="html"><![CDATA[- Ubuntu 桌面版]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[进击的程序猿]]></title>
