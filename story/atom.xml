@@ -127,6 +127,13 @@
         <summary type="html"><![CDATA[Dev]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jackson 使用总结]]></title>
+        <id>jackson-summary</id>
+        <link href="https://wener.me/story/jackson-summary"/>
+        <updated>2019-08-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[动态策略]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[囧 -《哪吒之魔童降世》观后感]]></title>
         <id>tt10627720-review</id>
         <link href="https://wener.me/story/tt10627720-review"/>
@@ -139,6 +146,13 @@
         <link href="https://wener.me/story/get-started-with-dsl"/>
         <updated>2019-07-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[语言就是程序员的酒精/Languages are alcohol to programmer。🍺]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 11 JavaFX 第一个应用]]></title>
+        <id>java11-javafx-first-app</id>
+        <link href="https://wener.me/story/java11-javafx-first-app"/>
+        <updated>2018-12-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[概述]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Java with GraphQL]]></title>

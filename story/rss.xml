@@ -127,6 +127,13 @@
             <description><![CDATA[Dev]]></description>
         </item>
         <item>
+            <title><![CDATA[Jackson 使用总结]]></title>
+            <link>https://wener.me/story/jackson-summary</link>
+            <guid>jackson-summary</guid>
+            <pubDate>Sun, 11 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[动态策略]]></description>
+        </item>
+        <item>
             <title><![CDATA[囧 -《哪吒之魔童降世》观后感]]></title>
             <link>https://wener.me/story/tt10627720-review</link>
             <guid>tt10627720-review</guid>
@@ -139,6 +146,13 @@
             <guid>get-started-with-dsl</guid>
             <pubDate>Fri, 26 Jul 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[语言就是程序员的酒精/Languages are alcohol to programmer。🍺]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Java 11 JavaFX 第一个应用]]></title>
+            <link>https://wener.me/story/java11-javafx-first-app</link>
+            <guid>java11-javafx-first-app</guid>
+            <pubDate>Thu, 06 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[概述]]></description>
         </item>
         <item>
             <title><![CDATA[Java with GraphQL]]></title>
