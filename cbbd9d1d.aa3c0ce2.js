@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[693],{767:function(s){s.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"crm","name":"crm","count":1,"permalink":"/story/tags/crm"}')}}]);
