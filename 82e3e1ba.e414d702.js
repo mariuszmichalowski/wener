@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[447],{521:function(o){o.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"vo-ip","name":"voip","count":1,"permalink":"/story/tags/vo-ip"}')}}]);

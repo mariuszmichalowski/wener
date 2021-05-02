@@ -4,9 +4,16 @@
         <title>Wener Live &amp; Life Blog</title>
         <link>https://wener.me/story</link>
         <description>Wener Live &amp; Life Blog</description>
-        <lastBuildDate>Thu, 25 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[如何选择 Asterisk 接口]]></title>
+            <link>https://wener.me/story/agi-vs-ami-vs-ari</link>
+            <guid>agi-vs-ami-vs-ari</guid>
+            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Asterisk 自 1999 年发展到现在，已经成为业界标准的 PBX 实现底层，但这 20 多年的发展也让 Asterisk 实现非常多的接口。]]></description>
+        </item>
         <item>
             <title><![CDATA[OpenVox VoxStack 网关分析]]></title>
             <link>https://wener.me/story/openvox-gw-inside</link>
