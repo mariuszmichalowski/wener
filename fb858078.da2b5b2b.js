@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[989],{1062:function(s){s.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"xfce","name":"xfce","count":1,"permalink":"/story/tags/xfce"}')}}]);
