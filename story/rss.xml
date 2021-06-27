@@ -4,9 +4,16 @@
         <title>Wener Live &amp; Life Blog</title>
         <link>https://wener.me/story</link>
         <description>Wener Live &amp; Life Blog</description>
-        <lastBuildDate>Fri, 30 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[macOS 微信备份原理]]></title>
+            <link>https://wener.me/story/macos-wechat-backup</link>
+            <guid>macos-wechat-backup</guid>
+            <pubDate>Sun, 27 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[iPhone7 32G 用了几年后，微信占了 10G，如果能把微信备份后清除，还能再战两年！]]></description>
+        </item>
         <item>
             <title><![CDATA[如何选择 Asterisk 接口]]></title>
             <link>https://wener.me/story/agi-vs-ami-vs-ari</link>
