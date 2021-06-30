@@ -414,13 +414,6 @@
         <summary type="html"><![CDATA[`]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《非遗失》]]></title>
-        <id>not-lost</id>
-        <link href="https://wener.me/story/not-lost"/>
-        <updated>2011-11-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[`]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《续爱》]]></title>
         <id>love-more</id>
         <link href="https://wener.me/story/love-more"/>
@@ -428,9 +421,9 @@
         <summary type="html"><![CDATA[`]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《我把我的矜持都给了她》：篇外 「风的故事」]]></title>
-        <id>here-my-love-wind-story</id>
-        <link href="https://wener.me/story/here-my-love-wind-story"/>
+        <title type="html"><![CDATA[《非遗失》]]></title>
+        <id>not-lost</id>
+        <link href="https://wener.me/story/not-lost"/>
         <updated>2011-11-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[`]]></summary>
     </entry>
@@ -438,6 +431,13 @@
         <title type="html"><![CDATA[《我把我的矜持都给了她》：序]]></title>
         <id>here-my-love-prolog</id>
         <link href="https://wener.me/story/here-my-love-prolog"/>
+        <updated>2011-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《我把我的矜持都给了她》：篇外 「风的故事」]]></title>
+        <id>here-my-love-wind-story</id>
+        <link href="https://wener.me/story/here-my-love-wind-story"/>
         <updated>2011-11-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[`]]></summary>
     </entry>
