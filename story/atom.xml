@@ -271,7 +271,7 @@
         <id>mom-intro</id>
         <link href="https://wener.me/story/mom-intro"/>
         <updated>2014-09-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. 异步 VS 同步]]></summary>
+        <summary type="html"><![CDATA[异步 VS 同步]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CentOS 新手]]></title>
@@ -327,14 +327,14 @@
         <id>regex-note</id>
         <link href="https://wener.me/story/regex-note"/>
         <updated>2013-10-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Regex 速记]]></summary>
+        <summary type="html"><![CDATA[需要注意的是, 由于正则在不同的流派中表示有所不同,只能整理一些几乎雷同的.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[简单的文字气泡框 for Swing]]></title>
         <id>java-siwng-textbubble</id>
         <link href="https://wener.me/story/java-siwng-textbubble"/>
         <updated>2013-10-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[![TextBubbleBorderDemo screenschot]]]></summary>
+        <summary type="html"><![CDATA[TextBubbleBorderDemo screenschot]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[数据库原理 for NCRE 4]]></title>
@@ -348,7 +348,7 @@
         <id>personal-project-page</id>
         <link href="https://wener.me/story/personal-project-page"/>
         <updated>2013-08-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[链接附上: 作品展示页面]]></summary>
+        <summary type="html"><![CDATA[个人作品展示截图]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯方块]]></title>
@@ -390,7 +390,7 @@
         <id>fwj-resume</id>
         <link href="https://wener.me/story/fwj-resume"/>
         <updated>2011-12-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[![梦幻西游版个人简介-中得一个PPT系统]]]></summary>
+        <summary type="html"><![CDATA[梦幻西游版个人简介-中得一个PPT系统]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[《何必再》]]></title>

@@ -271,7 +271,7 @@
             <link>https://wener.me/story/mom-intro</link>
             <guid>mom-intro</guid>
             <pubDate>Sat, 06 Sep 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[1. 异步 VS 同步]]></description>
+            <description><![CDATA[异步 VS 同步]]></description>
         </item>
         <item>
             <title><![CDATA[CentOS 新手]]></title>
@@ -327,14 +327,14 @@
             <link>https://wener.me/story/regex-note</link>
             <guid>regex-note</guid>
             <pubDate>Sun, 13 Oct 2013 00:00:00 GMT</pubDate>
-            <description><![CDATA[Regex 速记]]></description>
+            <description><![CDATA[需要注意的是, 由于正则在不同的流派中表示有所不同,只能整理一些几乎雷同的.]]></description>
         </item>
         <item>
             <title><![CDATA[简单的文字气泡框 for Swing]]></title>
             <link>https://wener.me/story/java-siwng-textbubble</link>
             <guid>java-siwng-textbubble</guid>
             <pubDate>Sat, 12 Oct 2013 00:00:00 GMT</pubDate>
-            <description><![CDATA[![TextBubbleBorderDemo screenschot]]]></description>
+            <description><![CDATA[TextBubbleBorderDemo screenschot]]></description>
         </item>
         <item>
             <title><![CDATA[数据库原理 for NCRE 4]]></title>
@@ -348,7 +348,7 @@
             <link>https://wener.me/story/personal-project-page</link>
             <guid>personal-project-page</guid>
             <pubDate>Fri, 23 Aug 2013 00:00:00 GMT</pubDate>
-            <description><![CDATA[链接附上: 作品展示页面]]></description>
+            <description><![CDATA[个人作品展示截图]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯方块]]></title>
@@ -390,7 +390,7 @@
             <link>https://wener.me/story/fwj-resume</link>
             <guid>fwj-resume</guid>
             <pubDate>Wed, 07 Dec 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[![梦幻西游版个人简介-中得一个PPT系统]]]></description>
+            <description><![CDATA[梦幻西游版个人简介-中得一个PPT系统]]></description>
         </item>
         <item>
             <title><![CDATA[《何必再》]]></title>
