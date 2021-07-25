@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[82],{148:function(r){r.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"firecracker","name":"firecracker","count":1,"permalink":"/story/tags/firecracker"}')}}]);

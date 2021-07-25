@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wener.me/story</id>
     <title>Wener Live &amp; Life Blog</title>
-    <updated>2021-06-30T00:00:00.000Z</updated>
+    <updated>2021-07-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wener.me/story"/>
     <subtitle>Wener Live &amp; Life Blog</subtitle>
     <icon>https://wener.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日常工作之外]]></title>
+        <id>out-of-daily-work</id>
+        <link href="https://wener.me/story/out-of-daily-work"/>
+        <updated>2021-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[工作是永远也做不完的，但在这条走不完的路上也要多看看沿途的风景。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的站点是如何构建的？！]]></title>
         <id>how-i-build-my-site</id>

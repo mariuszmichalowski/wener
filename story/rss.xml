@@ -4,9 +4,16 @@
         <title>Wener Live &amp; Life Blog</title>
         <link>https://wener.me/story</link>
         <description>Wener Live &amp; Life Blog</description>
-        <lastBuildDate>Wed, 30 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日常工作之外]]></title>
+            <link>https://wener.me/story/out-of-daily-work</link>
+            <guid>out-of-daily-work</guid>
+            <pubDate>Thu, 22 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[工作是永远也做不完的，但在这条走不完的路上也要多看看沿途的风景。]]></description>
+        </item>
         <item>
             <title><![CDATA[我的站点是如何构建的？！]]></title>
             <link>https://wener.me/story/how-i-build-my-site</link>
