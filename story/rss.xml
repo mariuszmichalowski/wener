@@ -4,9 +4,16 @@
         <title>Wener Live &amp; Life Blog</title>
         <link>https://wener.me/story</link>
         <description>Wener Live &amp; Life Blog</description>
-        <lastBuildDate>Thu, 22 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K8S Distro Compare]]></title>
+            <link>https://wener.me/story/k8s-distro-compare</link>
+            <guid>k8s-distro-compare</guid>
+            <pubDate>Sun, 25 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[K8S Distro K3S vs K0S]]></description>
+        </item>
         <item>
             <title><![CDATA[日常工作之外]]></title>
             <link>https://wener.me/story/out-of-daily-work</link>

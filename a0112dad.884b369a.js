@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[676],{750:function(n){n.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"vb-net","name":"vb.net","count":2,"permalink":"/story/tags/vb-net"}')}}]);
