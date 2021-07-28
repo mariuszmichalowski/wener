@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[291],{365:function(s){s.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"dev-ops","name":"devops","count":1,"permalink":"/story/tags/dev-ops"}')}}]);
