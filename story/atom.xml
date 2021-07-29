@@ -12,7 +12,7 @@
         <id>k8s-distro-compare</id>
         <link href="https://wener.me/story/k8s-distro-compare"/>
         <updated>2021-07-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[K8S Distro K3S vs K0S]]></summary>
+        <summary type="html"><![CDATA[K8S 作为最原始的项目，派生出来很多 分支/发布版。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[日常工作之外]]></title>
@@ -47,7 +47,7 @@
         <id>openvox-gw-inside</id>
         <link href="https://wener.me/story/openvox-gw-inside"/>
         <updated>2021-03-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenVox 模拟网关分析]]></summary>
+        <summary type="html"><![CDATA[因为淘到一个二手 OpenVox 语音网关，就好奇"里面"长什么样。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[记录一次修复 init 脚本的经历]]></title>
@@ -75,14 +75,14 @@
         <id>understand-baby-vision</id>
         <link href="https://wener.me/story/understand-baby-vision"/>
         <updated>2021-01-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[理解关注孩子的视力]]></summary>
+        <summary type="html"><![CDATA[新生儿的视力是非常弱的，只能看到非常近距离的物体。在六七周后孩子的眼睛应该会随着物体转动。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[工单系统设计实现]]></title>
         <id>issues-system-design</id>
         <link href="https://wener.me/story/issues-system-design"/>
         <updated>2020-12-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[工单系统设计实现]]></summary>
+        <summary type="html"><![CDATA[工单/Issues 系统都不会陌生，Github、Gitlab、Gitea 中每天都在接触的系统。想要学习如何设计实现最简单的是直接从别人的系统逻辑参考理解。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CRM 基础 - 线索、商机、账户、联系人]]></title>
@@ -96,7 +96,7 @@
         <id>rancher-vs-kubesphere</id>
         <link href="https://wener.me/story/rancher-vs-kubesphere"/>
         <updated>2020-10-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rancher vs. Kubesphere]]></summary>
+        <summary type="html"><![CDATA[| info.                 | Rancher                                                 | Kubesphere                                                          |]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Firecracker 运行 AlpineLinux]]></title>
@@ -201,7 +201,7 @@
         <id>jraphql</id>
         <link href="https://wener.me/story/jraphql"/>
         <updated>2018-05-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[JraphQL]]></summary>
+        <summary type="html"><![CDATA[Java with GraphQL]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google API Design Guide]]></title>
@@ -246,11 +246,11 @@
         <summary type="html"><![CDATA[Writing Redis Module in Golang.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tap-titans]]></title>
-        <id>tap-titans</id>
+        <title type="html"><![CDATA[Play Titans using shell]]></title>
+        <id>Play Titans using shell</id>
         <link href="https://wener.me/story/2016/08/06/tap-titans"/>
         <updated>2016-08-06T23:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Play Titans using shell]]></summary>
+        <summary type="html"><![CDATA[Tap Titans on Play Store]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[BBVM - BeBasic Virtual Machine]]></title>
@@ -278,28 +278,28 @@
         <id>ketama-consistence-hash</id>
         <link href="https://wener.me/story/ketama-consistence-hash"/>
         <updated>2014-11-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ketama]]></summary>
+        <summary type="html"><![CDATA[该算法最开始是开发来替代memcached键到服务器的映射算法的.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[消息中间件简介 mom-intro]]></title>
         <id>mom-intro</id>
         <link href="https://wener.me/story/mom-intro"/>
         <updated>2014-09-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[异步 VS 同步]]></summary>
+        <summary type="html"><![CDATA[同步]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CentOS 新手]]></title>
         <id>centos-newbie</id>
         <link href="https://wener.me/story/centos-newbie"/>
         <updated>2014-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[玩我的 CentOS / Play CentOS]]></summary>
+        <summary type="html"><![CDATA[记录我玩 centos 的经历]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的编程之道]]></title>
         <id>the-why-i-write-code</id>
         <link href="https://wener.me/story/the-why-i-write-code"/>
         <updated>2014-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[开发过程]]></summary>
+        <summary type="html"><![CDATA[- 能不能做]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[学习之谈]]></title>
@@ -320,7 +320,7 @@
         <id>student-checking-sys</id>
         <link href="https://wener.me/story/student-checking-sys"/>
         <updated>2013-12-27T04:24:19.000Z</updated>
-        <summary type="html"><![CDATA[学生考勤系统]]></summary>
+        <summary type="html"><![CDATA[别人作业啥的~~,不过还是学到了一些技巧]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[纪念那些在 BBK 的时光]]></title>
@@ -355,7 +355,7 @@
         <id>ncre-4-database-note</id>
         <link href="https://wener.me/story/ncre-4-database-note"/>
         <updated>2013-09-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[数据库原理笔记]]></summary>
+        <summary type="html"><![CDATA[记录自 全国高等教育制定教材 数据库原理]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[个人作品展示页面]]></title>

@@ -7,5 +7,5 @@
   <Image width="16" height="16" type="image/x-icon">https://wener.me/img/favicon.ico</Image>
   <Url type="text/html" method="get" template="https://wener.me/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://wener.me/opensearch.xml" />
-  <moz:SearchForm>https://wener.me</moz:SearchForm>
+  <moz:SearchForm>https://wener.me/</moz:SearchForm>
 </OpenSearchDescription>

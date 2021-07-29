@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[80296],{21513:function(e){e.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"vb-net","name":"vb.net","count":2,"permalink":"/story/tags/vb-net"}')}}]);

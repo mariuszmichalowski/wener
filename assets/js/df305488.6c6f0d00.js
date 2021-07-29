@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[65769],{61936:function(e){e.exports=JSON.parse('{"permalink":"/story/page/5","page":5,"postsPerPage":10,"totalPages":8,"totalCount":75,"previousPage":"/story/page/4","nextPage":"/story/page/6","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

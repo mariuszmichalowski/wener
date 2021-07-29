@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[27322],{28506:function(e){e.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"golang","name":"golang","count":3,"permalink":"/story/tags/golang"}')}}]);

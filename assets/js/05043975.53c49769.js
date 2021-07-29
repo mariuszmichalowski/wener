@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[5767],{44297:function(e){e.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"\u5b66\u4e60","name":"\u5b66\u4e60","count":1,"permalink":"/story/tags/\u5b66\u4e60"}')}}]);
