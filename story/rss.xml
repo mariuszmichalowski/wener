@@ -4,155 +4,316 @@
         <title>Wener Live &amp; Life Blog</title>
         <link>https://wener.me/story</link>
         <description>Wener Live &amp; Life Blog</description>
-        <lastBuildDate>Sun, 25 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 05:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[K8S Distro Compare]]></title>
-            <link>https://wener.me/story/k8s-distro-compare</link>
-            <guid>k8s-distro-compare</guid>
-            <pubDate>Sun, 25 Jul 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[K8S 作为最原始的项目，派生出来很多 分支/发布版。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日常工作之外]]></title>
-            <link>https://wener.me/story/out-of-daily-work</link>
-            <guid>out-of-daily-work</guid>
-            <pubDate>Thu, 22 Jul 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[工作是永远也做不完的，但在这条走不完的路上也要多看看沿途的风景。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的站点是如何构建的？！]]></title>
-            <link>https://wener.me/story/how-i-build-my-site</link>
-            <guid>how-i-build-my-site</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[我的站点 wener.me 和国内备案镜像 wener.tech 构建过程和逻辑。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[macOS 微信备份原理]]></title>
-            <link>https://wener.me/story/macos-wechat-backup</link>
-            <guid>macos-wechat-backup</guid>
-            <pubDate>Sun, 27 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[iPhone7 32G 用了几年后，微信占了 10G，如果能把微信备份后清除，还能再战两年！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何选择 Asterisk 接口]]></title>
-            <link>https://wener.me/story/agi-vs-ami-vs-ari</link>
-            <guid>agi-vs-ami-vs-ari</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Asterisk 自 1999 年发展到现在，已经成为业界标准的 PBX 实现底层，但这 20 多年的发展也让 Asterisk 实现非常多的接口。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OpenVox VoxStack 网关分析]]></title>
-            <link>https://wener.me/story/openvox-gw-inside</link>
-            <guid>openvox-gw-inside</guid>
-            <pubDate>Thu, 25 Mar 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[因为淘到一个二手 OpenVox 语音网关，就好奇"里面"长什么样。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[记录一次修复 init 脚本的经历]]></title>
-            <link>https://wener.me/story/fix-init-script</link>
-            <guid>fix-init-script</guid>
-            <pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[问题产生过程]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AlpineLinux 安装 Xfce 桌面]]></title>
-            <link>https://wener.me/story/alpinelinux-setup-xfce</link>
-            <guid>alpinelinux-setup-xfce</guid>
-            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[假设已经有一个基础可用的 AlpineLinux, 如果没有可前往 wenerme/alpine-image 下载或自行制作]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么需要 GraphQL]]></title>
-            <link>https://wener.me/story/why-need-graphql</link>
-            <guid>why-need-graphql</guid>
-            <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[项目开始时人员配备一般有几种情况]]></description>
-        </item>
-        <item>
-            <title><![CDATA[理解孩子的视力]]></title>
-            <link>https://wener.me/story/understand-baby-vision</link>
-            <guid>understand-baby-vision</guid>
-            <pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[新生儿的视力是非常弱的，只能看到非常近距离的物体。在六七周后孩子的眼睛应该会随着物体转动。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工单系统设计实现]]></title>
-            <link>https://wener.me/story/issues-system-design</link>
-            <guid>issues-system-design</guid>
-            <pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[工单/Issues 系统都不会陌生，Github、Gitlab、Gitea 中每天都在接触的系统。想要学习如何设计实现最简单的是直接从别人的系统逻辑参考理解。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CRM 基础 - 线索、商机、账户、联系人]]></title>
-            <link>https://wener.me/story/crm-basic-leads-opportunities-accounts-contacts</link>
-            <guid>crm-basic-leads-opportunities-accounts-contacts</guid>
-            <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[CRM 基础 - 线索、商机、账户、联系人]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rancher vs. Kubesphere]]></title>
-            <link>https://wener.me/story/rancher-vs-kubesphere</link>
-            <guid>rancher-vs-kubesphere</guid>
-            <pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[| info.                 | Rancher                                                 | Kubesphere                                                          |]]></description>
+            <title><![CDATA[Kubernetes vs OpenStack]]></title>
+            <link>https://wener.me/story/kubernetes-vs-openstack</link>
+            <guid>kubernetes-vs-openstack</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[10年趋势]]></description>
         </item>
         <item>
             <title><![CDATA[Firecracker 运行 AlpineLinux]]></title>
             <link>https://wener.me/story/alpine-in-firecracker</link>
             <guid>alpine-in-firecracker</guid>
-            <pubDate>Fri, 23 Oct 2020 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
             <description><![CDATA[Firecracker 是亚马逊 AWS 为了解决虚拟化运行 serveless 服务实现的 VMM/Virtual Machine Monitor，作为 QEMU 的替代品，专注于为云上环境提供虚拟化。]]></description>
         </item>
         <item>
-            <title><![CDATA[Kubernetes vs OpenStack]]></title>
-            <link>https://wener.me/story/kubernetes-vs-openstack</link>
-            <guid>kubernetes-vs-openstack</guid>
-            <pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[10年趋势]]></description>
+            <title><![CDATA[Rancher vs. Kubesphere]]></title>
+            <link>https://wener.me/story/rancher-vs-kubesphere</link>
+            <guid>rancher-vs-kubesphere</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[| info.                 | Rancher                                                 | Kubesphere                                                          |]]></description>
         </item>
         <item>
-            <title><![CDATA[人生第四阶段]]></title>
-            <link>https://wener.me/story/stage-four-of-life</link>
-            <guid>stage-four-of-life</guid>
-            <pubDate>Sun, 16 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[人生阶段]]></description>
+            <title><![CDATA[CRM 基础 - 线索、商机、账户、联系人]]></title>
+            <link>https://wener.me/story/crm-basic-leads-opportunities-accounts-contacts</link>
+            <guid>crm-basic-leads-opportunities-accounts-contacts</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[CRM 基础 - 线索、商机、账户、联系人]]></description>
         </item>
         <item>
-            <title><![CDATA[微服务杂念]]></title>
-            <link>https://wener.me/story/microservice-thoughts</link>
-            <guid>microservice-thoughts</guid>
-            <pubDate>Sat, 15 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[微服务已经是一个不再新鲜的概念，但我却依然模糊不清。]]></description>
+            <title><![CDATA[工单系统设计实现]]></title>
+            <link>https://wener.me/story/issues-system-design</link>
+            <guid>issues-system-design</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[工单/Issues 系统都不会陌生，Github、Gitlab、Gitea 中每天都在接触的系统。想要学习如何设计实现最简单的是直接从别人的系统逻辑参考理解。]]></description>
         </item>
         <item>
-            <title><![CDATA[开源 BI 产品比较]]></title>
-            <link>https://wener.me/story/compare-os-bi-tool</link>
-            <guid>compare-os-bi-tool</guid>
-            <pubDate>Tue, 14 Jul 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[比较 Metabase、Redash、Superset 这几款开源的 BI 产品。]]></description>
+            <title><![CDATA[理解孩子的视力]]></title>
+            <link>https://wener.me/story/understand-baby-vision</link>
+            <guid>understand-baby-vision</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[新生儿的视力是非常弱的，只能看到非常近距离的物体。在六七周后孩子的眼睛应该会随着物体转动。]]></description>
         </item>
         <item>
-            <title><![CDATA[你就是你]]></title>
-            <link>https://wener.me/story/cyw-without-w</link>
-            <guid>cyw-without-w</guid>
-            <pubDate>Mon, 15 Jun 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[YUN]]></description>
+            <title><![CDATA[为什么需要 GraphQL]]></title>
+            <link>https://wener.me/story/why-need-graphql</link>
+            <guid>why-need-graphql</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[项目开始时人员配备一般有几种情况]]></description>
         </item>
         <item>
-            <title><![CDATA[一周 K3S 学习心得]]></title>
-            <link>https://wener.me/story/k3s-one-week</link>
-            <guid>k3s-one-week</guid>
-            <pubDate>Sat, 13 Jun 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[k3s-one-week]]></description>
+            <title><![CDATA[AlpineLinux 安装 Xfce 桌面]]></title>
+            <link>https://wener.me/story/alpinelinux-setup-xfce</link>
+            <guid>alpinelinux-setup-xfce</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[假设已经有一个基础可用的 AlpineLinux, 如果没有可前往 wenerme/alpine-image 下载或自行制作]]></description>
+        </item>
+        <item>
+            <title><![CDATA[记录一次修复 init 脚本的经历]]></title>
+            <link>https://wener.me/story/fix-init-script</link>
+            <guid>fix-init-script</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[问题产生过程]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OpenVox VoxStack 网关分析]]></title>
+            <link>https://wener.me/story/openvox-gw-inside</link>
+            <guid>openvox-gw-inside</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[因为淘到一个二手 OpenVox 语音网关，就好奇"里面"长什么样。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何选择 Asterisk 接口]]></title>
+            <link>https://wener.me/story/agi-vs-ami-vs-ari</link>
+            <guid>agi-vs-ami-vs-ari</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[Asterisk 自 1999 年发展到现在，已经成为业界标准的 PBX 实现底层，但这 20 多年的发展也让 Asterisk 实现非常多的接口。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[macOS 微信备份原理]]></title>
+            <link>https://wener.me/story/macos-wechat-backup</link>
+            <guid>macos-wechat-backup</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[iPhone7 32G 用了几年后，微信占了 10G，如果能把微信备份后清除，还能再战两年！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的站点是如何构建的？！]]></title>
+            <link>https://wener.me/story/how-i-build-my-site</link>
+            <guid>how-i-build-my-site</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[我的站点 wener.me 和国内备案镜像 wener.tech 构建过程和逻辑。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[日常工作之外]]></title>
+            <link>https://wener.me/story/out-of-daily-work</link>
+            <guid>out-of-daily-work</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[工作是永远也做不完的，但在这条走不完的路上也要多看看沿途的风景。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[K8S Distro Compare]]></title>
+            <link>https://wener.me/story/k8s-distro-compare</link>
+            <guid>k8s-distro-compare</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[K8S 作为最原始的项目，派生出来很多 分支/发布版。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一种简单的压缩算法]]></title>
+            <link>https://wener.me/story/simple-compress-algorithem</link>
+            <guid>simple-compress-algorithem</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[使用环境：简单加密，使用字符串的读取方式，压缩杂项数据]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2011年的第一天，今天开通博客了]]></title>
+            <link>https://wener.me/story/start-blogging</link>
+            <guid>start-blogging</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[算来算去终于到了今天了。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[PHP 操作二进制流，读取文件结构]]></title>
+            <link>https://wener.me/story/php-read-binary</link>
+            <guid>php-read-binary</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[本文包含的内容：详细的pack和unpack调用详解，16进制数字字符串保存到文件，读取文件返回值，等]]></description>
+        </item>
+        <item>
+            <title><![CDATA[“Wener”的来历 - 一段故事]]></title>
+            <link>https://wener.me/story/wener-is-my-name</link>
+            <guid>wener-is-my-name</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[记得那还是在初中的时候吧，初二左右吧，那时候班上就开始叫“简称”了，记得最先出现的是“志儿”，然后叫了叫的大家都开始叫简称了，我觉得这样也挺好的，叫人没那么费力了，也节省了不少口水和时间。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[文件存储结构的基本形式及考虑因素]]></title>
+            <link>https://wener.me/story/file-data-structures</link>
+            <guid>file-data-structures</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[每天我们都在接触各种各样的文件，使用和记录各种各样的数据信息，那这些文件都是以什么结构存储的呢？此文对此进行了一些小小的涉及和讲解。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[《何必再》]]></title>
+            <link>https://wener.me/story/no-more</link>
+            <guid>no-more</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[`]]></description>
+        </item>
+        <item>
+            <title><![CDATA[《歌声》]]></title>
+            <link>https://wener.me/story/the-song</link>
+            <guid>the-song</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[`]]></description>
+        </item>
+        <item>
+            <title><![CDATA[《沉醉的犯罪》]]></title>
+            <link>https://wener.me/story/addicted-sin</link>
+            <guid>addicted-sin</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[`]]></description>
+        </item>
+        <item>
+            <title><![CDATA[《续爱》]]></title>
+            <link>https://wener.me/story/love-more</link>
+            <guid>love-more</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[`]]></description>
+        </item>
+        <item>
+            <title><![CDATA[学习之谈]]></title>
+            <link>https://wener.me/story/learning-skill</link>
+            <guid>learning-skill</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[一下内容之作为个人学习的一些经验]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的编程之道]]></title>
+            <link>https://wener.me/story/the-why-i-write-code</link>
+            <guid>the-why-i-write-code</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[- 能不能做]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CentOS 新手]]></title>
+            <link>https://wener.me/story/centos-newbie</link>
+            <guid>centos-newbie</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[记录我玩 centos 的经历]]></description>
+        </item>
+        <item>
+            <title><![CDATA[消息中间件简介 mom-intro]]></title>
+            <link>https://wener.me/story/mom-intro</link>
+            <guid>mom-intro</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[同步]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一致性Hash算法]]></title>
+            <link>https://wener.me/story/ketama-consistence-hash</link>
+            <guid>ketama-consistence-hash</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[该算法最开始是开发来替代memcached键到服务器的映射算法的.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu 新服务器配置]]></title>
+            <link>https://wener.me/story/ubuntu-new-server</link>
+            <guid>ubuntu-new-server</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[`bash]]></description>
+        </item>
+        <item>
+            <title><![CDATA[进击的程序猿]]></title>
+            <link>https://wener.me/story/attack-on-programmer</link>
+            <guid>attack-on-programmer</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[2016 年会节目]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu 家用]]></title>
+            <link>https://wener.me/story/ubuntu-home</link>
+            <guid>ubuntu-home</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[- Ubuntu 桌面版]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Google API Design Guide]]></title>
+            <link>https://wener.me/story/google-api-design-guide</link>
+            <guid>google-api-design-guide</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[Google API Design Guide]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Redis 流简介]]></title>
+            <link>https://wener.me/story/redis-stream-intro</link>
+            <guid>redis-stream-intro</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[概述]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Java 11 JavaFX 第一个应用]]></title>
+            <link>https://wener.me/story/java11-javafx-first-app</link>
+            <guid>java11-javafx-first-app</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[概述]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何从0到1实现一门语言]]></title>
+            <link>https://wener.me/story/get-started-with-dsl</link>
+            <guid>get-started-with-dsl</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[语言就是程序员的酒精/Languages are alcohol to programmer。🍺]]></description>
+        </item>
+        <item>
+            <title><![CDATA[囧 -《哪吒之魔童降世》观后感]]></title>
+            <link>https://wener.me/story/tt10627720-review</link>
+            <guid>tt10627720-review</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[在想标题的时候，看到主演里有 囧（森瑟夫），突然觉得好贴切感受，在观影时大部分是这个表情。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jackson 使用总结]]></title>
+            <link>https://wener.me/story/jackson-summary</link>
+            <guid>jackson-summary</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[动态策略]]></description>
         </item>
         <item>
             <title><![CDATA[Hello CGO]]></title>
             <link>https://wener.me/story/hello-cgo</link>
             <guid>hello-cgo</guid>
-            <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
             <description><![CDATA[Tips]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一周 K3S 学习心得]]></title>
+            <link>https://wener.me/story/k3s-one-week</link>
+            <guid>k3s-one-week</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[k3s-one-week]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你就是你]]></title>
+            <link>https://wener.me/story/cyw-without-w</link>
+            <guid>cyw-without-w</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[YUN]]></description>
+        </item>
+        <item>
+            <title><![CDATA[开源 BI 产品比较]]></title>
+            <link>https://wener.me/story/compare-os-bi-tool</link>
+            <guid>compare-os-bi-tool</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[比较 Metabase、Redash、Superset 这几款开源的 BI 产品。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[微服务杂念]]></title>
+            <link>https://wener.me/story/microservice-thoughts</link>
+            <guid>microservice-thoughts</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[微服务已经是一个不再新鲜的概念，但我却依然模糊不清。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人生第四阶段]]></title>
+            <link>https://wener.me/story/stage-four-of-life</link>
+            <guid>stage-four-of-life</guid>
+            <pubDate>Mon, 13 Sep 2021 05:15:07 GMT</pubDate>
+            <description><![CDATA[人生阶段]]></description>
         </item>
         <item>
             <title><![CDATA[Wener's APIs]]></title>
@@ -162,74 +323,11 @@
             <description><![CDATA[Dev]]></description>
         </item>
         <item>
-            <title><![CDATA[Jackson 使用总结]]></title>
-            <link>https://wener.me/story/jackson-summary</link>
-            <guid>jackson-summary</guid>
-            <pubDate>Sun, 11 Aug 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[动态策略]]></description>
-        </item>
-        <item>
-            <title><![CDATA[囧 -《哪吒之魔童降世》观后感]]></title>
-            <link>https://wener.me/story/tt10627720-review</link>
-            <guid>tt10627720-review</guid>
-            <pubDate>Sun, 28 Jul 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[在想标题的时候，看到主演里有 囧（森瑟夫），突然觉得好贴切感受，在观影时大部分是这个表情。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何从0到1实现一门语言]]></title>
-            <link>https://wener.me/story/get-started-with-dsl</link>
-            <guid>get-started-with-dsl</guid>
-            <pubDate>Fri, 26 Jul 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[语言就是程序员的酒精/Languages are alcohol to programmer。🍺]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Java 11 JavaFX 第一个应用]]></title>
-            <link>https://wener.me/story/java11-javafx-first-app</link>
-            <guid>java11-javafx-first-app</guid>
-            <pubDate>Thu, 06 Dec 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[概述]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Redis 流简介]]></title>
-            <link>https://wener.me/story/redis-stream-intro</link>
-            <guid>redis-stream-intro</guid>
-            <pubDate>Thu, 25 Oct 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[概述]]></description>
-        </item>
-        <item>
             <title><![CDATA[Java with GraphQL]]></title>
             <link>https://wener.me/story/jraphql</link>
             <guid>jraphql</guid>
             <pubDate>Mon, 21 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Java with GraphQL]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Google API Design Guide]]></title>
-            <link>https://wener.me/story/google-api-design-guide</link>
-            <guid>google-api-design-guide</guid>
-            <pubDate>Fri, 24 Nov 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[Google API Design Guide]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu 家用]]></title>
-            <link>https://wener.me/story/ubuntu-home</link>
-            <guid>ubuntu-home</guid>
-            <pubDate>Thu, 09 Feb 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[- Ubuntu 桌面版]]></description>
-        </item>
-        <item>
-            <title><![CDATA[进击的程序猿]]></title>
-            <link>https://wener.me/story/attack-on-programmer</link>
-            <guid>attack-on-programmer</guid>
-            <pubDate>Thu, 19 Jan 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[2016 年会节目]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu 新服务器配置]]></title>
-            <link>https://wener.me/story/ubuntu-new-server</link>
-            <guid>ubuntu-new-server</guid>
-            <pubDate>Wed, 28 Sep 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[`bash]]></description>
         </item>
         <item>
             <title><![CDATA[分布式架构手记]]></title>
@@ -247,7 +345,7 @@
         </item>
         <item>
             <title><![CDATA[Play Titans using shell]]></title>
-            <link>https://wener.me/story/2016/08/06/tap-titans</link>
+            <link>https://wener.me/story/2016/2016-08-06-tap-titans</link>
             <guid>Play Titans using shell</guid>
             <pubDate>Sat, 06 Aug 2016 23:43:00 GMT</pubDate>
             <description><![CDATA[Tap Titans on Play Store]]></description>
@@ -268,45 +366,10 @@
         </item>
         <item>
             <title><![CDATA[转战 Hugo, 博客迁移之路]]></title>
-            <link>https://wener.me/story/2015/09/25/blog-hugo</link>
+            <link>https://wener.me/story/2015/2015-09-25-blog-hugo</link>
             <guid>转战 Hugo, 博客迁移之路</guid>
             <pubDate>Fri, 25 Sep 2015 09:32:05 GMT</pubDate>
             <description><![CDATA[都快要把自己感动, 从最初(2011年)的 Wordpress, 到后来自己开发的 Tellets , 现在又到了 Hugo.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一致性Hash算法]]></title>
-            <link>https://wener.me/story/ketama-consistence-hash</link>
-            <guid>ketama-consistence-hash</guid>
-            <pubDate>Wed, 12 Nov 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[该算法最开始是开发来替代memcached键到服务器的映射算法的.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[消息中间件简介 mom-intro]]></title>
-            <link>https://wener.me/story/mom-intro</link>
-            <guid>mom-intro</guid>
-            <pubDate>Sat, 06 Sep 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[同步]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CentOS 新手]]></title>
-            <link>https://wener.me/story/centos-newbie</link>
-            <guid>centos-newbie</guid>
-            <pubDate>Sat, 21 Jun 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[记录我玩 centos 的经历]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的编程之道]]></title>
-            <link>https://wener.me/story/the-why-i-write-code</link>
-            <guid>the-why-i-write-code</guid>
-            <pubDate>Sat, 31 May 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[- 能不能做]]></description>
-        </item>
-        <item>
-            <title><![CDATA[学习之谈]]></title>
-            <link>https://wener.me/story/learning-skill</link>
-            <guid>learning-skill</guid>
-            <pubDate>Fri, 30 May 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[一下内容之作为个人学习的一些经验]]></description>
         </item>
         <item>
             <title><![CDATA[《我把我的矜持都给了她》：第一章 - 差一毫米的缘分，吗？]]></title>
@@ -407,34 +470,6 @@
             <description><![CDATA[梦幻西游版个人简介-中得一个PPT系统]]></description>
         </item>
         <item>
-            <title><![CDATA[《何必再》]]></title>
-            <link>https://wener.me/story/no-more</link>
-            <guid>no-more</guid>
-            <pubDate>Wed, 16 Nov 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[`]]></description>
-        </item>
-        <item>
-            <title><![CDATA[《歌声》]]></title>
-            <link>https://wener.me/story/the-song</link>
-            <guid>the-song</guid>
-            <pubDate>Wed, 16 Nov 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[`]]></description>
-        </item>
-        <item>
-            <title><![CDATA[《沉醉的犯罪》]]></title>
-            <link>https://wener.me/story/addicted-sin</link>
-            <guid>addicted-sin</guid>
-            <pubDate>Wed, 16 Nov 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[`]]></description>
-        </item>
-        <item>
-            <title><![CDATA[《续爱》]]></title>
-            <link>https://wener.me/story/love-more</link>
-            <guid>love-more</guid>
-            <pubDate>Wed, 16 Nov 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[`]]></description>
-        </item>
-        <item>
             <title><![CDATA[《非遗失》]]></title>
             <link>https://wener.me/story/not-lost</link>
             <guid>not-lost</guid>
@@ -496,41 +531,6 @@
             <guid>bbk-first-game</guid>
             <pubDate>Fri, 04 Feb 2011 02:21:00 GMT</pubDate>
             <description><![CDATA[原帖子链接]]></description>
-        </item>
-        <item>
-            <title><![CDATA[文件存储结构的基本形式及考虑因素]]></title>
-            <link>https://wener.me/story/file-data-structures</link>
-            <guid>file-data-structures</guid>
-            <pubDate>Sat, 08 Jan 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[每天我们都在接触各种各样的文件，使用和记录各种各样的数据信息，那这些文件都是以什么结构存储的呢？此文对此进行了一些小小的涉及和讲解。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[“Wener”的来历 - 一段故事]]></title>
-            <link>https://wener.me/story/wener-is-my-name</link>
-            <guid>wener-is-my-name</guid>
-            <pubDate>Sun, 02 Jan 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[记得那还是在初中的时候吧，初二左右吧，那时候班上就开始叫“简称”了，记得最先出现的是“志儿”，然后叫了叫的大家都开始叫简称了，我觉得这样也挺好的，叫人没那么费力了，也节省了不少口水和时间。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2011年的第一天，今天开通博客了]]></title>
-            <link>https://wener.me/story/start-blogging</link>
-            <guid>start-blogging</guid>
-            <pubDate>Sat, 01 Jan 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[算来算去终于到了今天了。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PHP 操作二进制流，读取文件结构]]></title>
-            <link>https://wener.me/story/php-read-binary</link>
-            <guid>php-read-binary</guid>
-            <pubDate>Sat, 01 Jan 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[本文包含的内容：详细的pack和unpack调用详解，16进制数字字符串保存到文件，读取文件返回值，等]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一种简单的压缩算法]]></title>
-            <link>https://wener.me/story/simple-compress-algorithem</link>
-            <guid>simple-compress-algorithem</guid>
-            <pubDate>Sat, 10 Apr 2010 00:00:00 GMT</pubDate>
-            <description><![CDATA[使用环境：简单加密，使用字符串的读取方式，压缩杂项数据]]></description>
         </item>
     </channel>
 </rss>

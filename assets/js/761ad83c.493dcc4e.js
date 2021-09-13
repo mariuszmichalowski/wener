@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[65046],{69211:function(s){s.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"/story/tags/asterisk","name":"Asterisk","count":1,"permalink":"/story/tags/asterisk"}')}}]);

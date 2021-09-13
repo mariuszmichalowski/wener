@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[79422],{91247:function(e){e.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"nodejs","name":"nodejs","count":1,"permalink":"/story/tags/nodejs"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[41152],{76928:function(e){e.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"php","name":"php","count":1,"permalink":"/story/tags/php"}')}}]);

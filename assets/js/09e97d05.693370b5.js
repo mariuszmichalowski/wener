@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[54547],{31970:function(e){e.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"graph-ql","name":"graphql","count":2,"permalink":"/story/tags/graph-ql"}')}}]);

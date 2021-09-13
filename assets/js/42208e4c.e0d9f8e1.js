@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[91168],{36931:function(e){e.exports=JSON.parse('{"allTagsPath":"/story/tags","slug":"java","name":"java","count":8,"permalink":"/story/tags/java"}')}}]);
