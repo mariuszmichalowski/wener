@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[28565],{38768:function(e){e.exports=JSON.parse('{"name":"Glossary","permalink":"/notes/tags/glossary","docs":[{"id":"hardware/glossary","title":"\u786c\u4ef6\u8bcd\u6c47","description":"- \u53c2\u8003","permalink":"/notes/hardware/glossary"}],"allTagsPath":"/notes/tags"}')}}]);
