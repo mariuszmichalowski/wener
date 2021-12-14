@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[80705],{37423:function(e){e.exports=JSON.parse('{"name":"Interface","permalink":"/notes/tags/interface","docs":[{"id":"web/spec/URLPattern","title":"URLPattern","description":"- URLPattern","permalink":"/notes/web/spec/URLPattern"}],"allTagsPath":"/notes/tags"}')}}]);
